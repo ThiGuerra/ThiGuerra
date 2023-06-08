@@ -1,15 +1,9 @@
  ### Hi there 👋
 
 Sobre mim:
-Sou um Desenvolvedor Fullstack😄
+Sou uma jovem  Analista de Dados e estou começando  na carreira  😁
 
-Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
-
-Minhas especialidades:
-Línguas:
-Base de dados:
-Outros:
-<!--
+Minhas especialidades: Python , SQL,  Power BI <!--
 **ThiGuerra/ThiGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
