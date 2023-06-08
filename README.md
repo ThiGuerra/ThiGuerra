@@ -3,8 +3,6 @@
 
 - 🌱 Estou atualmente learning **Mineração e Modelagem de Dados, Análise Dados Exploratória, Programação Estatística**
 
-- 📫 Como me contatar **thifany.guerra.vm06@gmail.com**
-
 <h3 align="left">Conecte-se comigo:</ h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/thifany-guerra-5479b61b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thifany-guerra-5479b61b2" height="30" width="40" /></a>
