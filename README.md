@@ -1,5 +1,14 @@
-### Hi there 👋
+ ### Hi there 👋
 
+Sobre mim:
+Sou um Desenvolvedor Fullstack😄
+
+Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
+
+Minhas especialidades:
+Línguas:
+Base de dados:
+Outros:
 <!--
 **ThiGuerra/ThiGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
