@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, sou Thifany Guerra</h1>
-<h3 align="center">Sou uma jovem Analista de Dados e estou começando na carreira, apaixonada por ciência e análise de dados no mundo digital . 😁</h3>
+<h3 align="center">Sou uma jovem Analista de Dados, apaixonada por ciência e análise de dados no mundo digital . 😁</h3>
 
-- 🌱 Atualmente estou aprendendo **Power BI, SQL, Python,  Business Intellegence e  Machine Learning**
+- 🌱 Estou me aventurando no extenso mundo da Ciência de Dados, e atualmente possuo conhecimentos em: **Business Intelligence, Estatística, ETL, VBA, DAX, Power BI e Machine Learning. Linguagens como: SQL, Python, M e R. **
+Vamos desbravar o incrível mundo coorporativo.
 - 📫 Como entrar em contato comigo **thifany.guerra.vm06@gmail.com**
 
 <h3 align ="left">Conecte-se comigo:</h3>
