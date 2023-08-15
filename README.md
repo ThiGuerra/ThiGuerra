@@ -2,7 +2,7 @@
 <h3 align="center">Sou uma jovem Analista de Dados, apaixonada por ciência e análise de dados no mundo digital . 😁</h3>
 
 - 🌱 Estou me aventurando no extenso mundo da Ciência de Dados, e atualmente possuo conhecimentos em: **Business Intelligence, Estatística, ETL, VBA, DAX, Power BI e Machine Learning. Linguagens como: SQL, Python, M e R. **
-Vamos desbravar o incrível mundo coorporativo.
+Vamos desbravar o incrível mundo de Analytcs!
 - 📫 Como entrar em contato comigo **thifany.guerra.vm06@gmail.com**
 
 <h3 align ="left">Conecte-se comigo:</h3>
